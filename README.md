@@ -18,7 +18,7 @@ Credit risk modeling is crucial in financial institutions for evaluating the lik
 ## 🔍 Key Steps
 
 - Data preprocessing and one-hot encoding of categorical variables
-- Feature scaling and balancing (if necessary)
+- Feature scaling and balancing
 - Logistic regression model training
 - Model evaluation: accuracy, precision, recall, ROC-AUC
 - Visualization of feature importances using model coefficients
